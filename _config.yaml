@@ -5,6 +5,8 @@ description: The System for AI Lab (SAIL) at Georgia Tech, led by Prof. Alexey T
 header: images/background.jpeg
 # footer: images/background.jpeg
 proofer: false
+header-dark: true
+footer-dark: true
 
 # site social media and other links
 # links:
