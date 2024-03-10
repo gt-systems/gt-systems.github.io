@@ -115,6 +115,10 @@ header:not([data-big]) {
   @media (max-width: $collapse) {
     justify-content: flex-end;
 
+    .logo {
+      display: none;
+    }
+
     .nav-toggle {
       display: flex;
     }
