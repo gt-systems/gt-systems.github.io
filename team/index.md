@@ -9,7 +9,16 @@ nav:
 
 {% include section.html %}
 
+## Principle Investigator
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+
+## PhD
+{% include list.html data="members" component="portrait" filters="role: phd" %}
+
+## Masters
+{% include list.html data="members" component="portrait" filters="role: masters" %}
+
+## Undergraduate
+{% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 {% include section.html background="images/background.jpeg" dark=true %}
