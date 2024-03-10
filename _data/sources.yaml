@@ -55,3 +55,27 @@
     - Saibal Mukhopadhyay
   publisher: "Proc. 38'th IEEE International Parallel and Distributed Processing Symposium (IPDPS'24)"
   image: images/publication_thumbnails/harmonica.png
+- id: arxiv:2312.16733 # superserve
+  image: images/publication_thumbnails/superserve.png
+- title: "TransEHR: Self-Supervised Transformer for Clinical Time Series Data" # TransEHR
+  authors:
+    - Yanbo Xu
+    - Shangqing Xu
+    - Manav Ramprassad
+    - Alexey Tumanov
+    - Chao Zhang
+  publisher: "Proc. of Machine Learning for Health (ML4H'23)"
+  date: "2023-12-10"
+  image: images/publication_thumbnails/transehr.png
+- id: arxiv:2310.15938 # abkd
+  image: images/publication_thumbnails/abkd.png
+- title: "Signed-Binarization: Unlocking Efficiency Through Repetition-Sparsity Trade-Off"
+  authors:
+    - Sachit Kuhar
+    - Alexey Tumanov
+    - Judy Hoffman
+  date: "2023-06-01"
+  publisher: "Proc. of 3rd On-Device Intelligence Workshop, Machine Learning and Systems (MLSys'23)"
+  iamge: images/publication_thumbnails/signed-binary.png
+- id: arxiv:2307.01292 # psml
+  iamge: images/publication_thumbnails/psml.png

@@ -190,3 +190,75 @@
   image: images/publication_thumbnails/harmonica.png
   plugin: sources.py
   file: sources.yaml
+- id: arxiv:2312.16733
+  title: 'SuperServe: Fine-Grained Inference Serving for Unpredictable Workloads'
+  authors:
+  - Alind Khare
+  - Dhruv Garg
+  - Sukrit Kalra
+  - Snigdha Grandhi
+  - Ion Stoica
+  - Alexey Tumanov
+  publisher: arXiv
+  date: '2023-12-29'
+  link: https://arxiv.org/abs/2312.16733
+  image: images/publication_thumbnails/superserve.png
+  plugin: sources.py
+  file: sources.yaml
+- title: 'TransEHR: Self-Supervised Transformer for Clinical Time Series Data'
+  authors:
+  - Yanbo Xu
+  - Shangqing Xu
+  - Manav Ramprassad
+  - Alexey Tumanov
+  - Chao Zhang
+  publisher: Proc. of Machine Learning for Health (ML4H'23)
+  date: '2023-12-10'
+  image: images/publication_thumbnails/transehr.png
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2310.15938
+  title: 'ABKD: Graph Neural Network Compression with Attention-Based Knowledge Distillation'
+  authors:
+  - Anshul Ahluwalia
+  - Rohit Das
+  - Payman Behnam
+  - Alind Khare
+  - Pan Li
+  - Alexey Tumanov
+  publisher: arXiv
+  date: '2023-10-25'
+  link: https://arxiv.org/abs/2310.15938
+  image: images/publication_thumbnails/abkd.png
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Signed-Binarization: Unlocking Efficiency Through Repetition-Sparsity Trade-Off'
+  authors:
+  - Sachit Kuhar
+  - Alexey Tumanov
+  - Judy Hoffman
+  date: '2023-06-01'
+  publisher: Proc. of 3rd On-Device Intelligence Workshop, Machine Learning and Systems
+    (MLSys'23)
+  iamge: images/publication_thumbnails/signed-binary.png
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2307.01292
+  title: 'Pareto-Secure Machine Learning (PSML): Fingerprinting and Securing Inference
+    Serving Systems'
+  authors:
+  - Debopam Sanyal
+  - Jui-Tse Hung
+  - Manav Agrawal
+  - Prahlad Jasti
+  - Shahab Nikkhoo
+  - Somesh Jha
+  - Tianhao Wang
+  - Sibin Mohan
+  - Alexey Tumanov
+  publisher: arXiv
+  date: '2023-08-08'
+  link: https://arxiv.org/abs/2307.01292
+  iamge: images/publication_thumbnails/psml.png
+  plugin: sources.py
+  file: sources.yaml
