@@ -240,7 +240,8 @@
   date: '2023-06-01'
   publisher: Proc. of 3rd On-Device Intelligence Workshop, Machine Learning and Systems
     (MLSys'23)
-  iamge: images/publication_thumbnails/signed-binary.png
+  image: images/publication_thumbnails/signed-binary.png
+  link: https://arxiv.org/pdf/2211.13838
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2307.01292
@@ -259,6 +260,23 @@
   publisher: arXiv
   date: '2023-08-08'
   link: https://arxiv.org/abs/2307.01292
-  iamge: images/publication_thumbnails/psml.png
+  image: images/publication_thumbnails/psml.png
+  plugin: sources.py
+  file: sources.yaml
+- title: Enabling Real-time DNN Switching via Weight-Sharing
+  authors:
+  - Jianming Tong
+  - Yangyu Chen
+  - Yue Pan
+  - Abhimanyu Bambhaniya
+  - Alind Khare
+  - Taekyung Heo
+  - Alexey Tumanov
+  - Tushar Krishna
+  link: https://par.nsf.gov/servlets/purl/10430210
+  publisher: Proc. of 2nd Architecture, Compiler, and System Support for Multi-model
+    DNN Workloads Workshop
+  date: '2022-06-01'
+  image: images/publication_thumbnails/isca_22.png
   plugin: sources.py
   file: sources.yaml
