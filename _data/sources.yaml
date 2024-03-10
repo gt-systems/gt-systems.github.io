@@ -1,23 +1,57 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+- id: arxiv:2306.11800 # dynaquant
+  image: https://ameya.info/images/project-list-thumbnails/dynaquant.png
+- id: arxiv:2403.02310 # sarathi-serve
+  image: https://ameya.info/images/project-list-thumbnails/sarathi-serve.png
+- id: arxiv:2308.16369 # sarathi
+  image: https://ameya.info/images/project-list-thumbnails/sarathi.png
+- title:  "Vidur: A Large Scale Simulation Framework For LLM Inference"
+  date: "2024-05-13"
+  authors:
+    - Amey Agrawal
+    - Nitin Kedia
+    - Jayashree Mohan
+    - Ashish Panwar
+    - Nipun Kwatra
+    - Bhargav S. Gulavani
+    - Ramachandran Ramjee
+    - Alexey Tumanov
+  publisher: "7th Annual Conference on Machine Learning Systems (MLSys’24), Santa Clara"
+  image: https://ameya.info/images/project-list-thumbnails/vidur.png
+- id: doi:10.1145/3394486.3403212 # holmes
+  image: images/publication_thumbnails/holmes.png
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+    - type: video
+      link: https://www.youtube.com/watch?v=qZ15gmRWj0s
+    - type: code
+      link: https://github.com/hsd1503/HOLMES
+- id: arxiv:2104.12642 # compofa
+  publisher: "Proc. of International Conference on Learning Representations (ICLR'21)"
+  image: https://github.com/gatech-sysml/CompOFA/raw/main/figures/overview.png
+  buttons:
+    - type: video
+      link: https://www.youtube.com/watch?v=DAi20CfDCfg
+    - type: code
+      link: https://github.com/gatech-sysml/CompOFA
+- id: doi:10.1109/MM.2023.3317243 # peyman micro'23
+  image: https://jianmingtong.github.io/images/sushi_micro.png
+- id: arxiv:2306.17266 # sushi
+  publisher: "Proc. of Sixth Conference on Machine Learning and Systems (MLSys'23)"
+  image: https://jianmingtong.github.io/images/sushi.png
+  buttons:
+    - type: slides
+      link: https://mlsys.org/media/mlsys-2023/Slides/2481.pdf
+- id: arxiv:2210.15056 # unfoldml
+  publisher: "Proc. of 36'th Conference on Neural Information Processing Systems (NeurIPS'22)"
+  image: images/publication_thumbnails/unfoldml.png
+- id: arxiv:2301.10879 # superfed
+  image: images/publication_thumbnails/superfed.png
+- title:  "Harmonica: Hybrid Accelerator to Overcome Imperfections of Mixed-signal DNN Accelerators" # harmonica
+  date: "2024-05-27"
+  authors:
+    - Payman Behnam
+    - Uday Kamal
+    - A. Shafiee
+    - Alexey Tumanov
+    - Saibal Mukhopadhyay
+  publisher: "Proc. 38'th IEEE International Parallel and Distributed Processing Symposium (IPDPS'24)"
+  image: images/publication_thumbnails/harmonica.png

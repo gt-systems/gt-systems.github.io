@@ -38,6 +38,21 @@ website:
   text: Website
   tooltip: Website
 
+video:
+  icon: fa-brands fa-youtube
+  text: Video
+  tooltip: Video
+
+code:
+  icon: fa-brands fa-github
+  text: Code
+  tooltip: Code
+
+slides:
+  icon: fa-solid fa-file-powerpoint
+  text: Slides
+  tooltip: Slides
+
 external:
   icon: fa-solid fa-up-right-from-square
   text: External Link
