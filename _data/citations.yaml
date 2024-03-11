@@ -13,6 +13,7 @@
   publisher: arXiv
   date: '2023-09-06'
   link: https://arxiv.org/abs/2306.11800
+  image: https://ameya.info/images/project-list-thumbnails/dynaquant.png
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2403.02310
