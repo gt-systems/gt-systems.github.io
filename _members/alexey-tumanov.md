@@ -1,7 +1,7 @@
 ---
 name: Alexey Tumanov
 image: https://faculty.cc.gatech.edu/~atumanov/img/AlexeyTumanov-202105.png
-role: pi
+role: assis-prof
 aliases:
   - A. Tumanov
   - A Tumanov

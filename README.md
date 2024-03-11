@@ -1,6 +1,6 @@
 
-# AgrawalAmey's Website
+# Webpage of System's Group at Georgia Tech
 
-Visit **[ameya.info/gatech-sysml](http://ameya.info/gatech-sysml)** 🚀
+Visit **[gt-systems.github.io](https://gt-systems.github.io)** 🚀
 
-_Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
+Refer template documentation at: [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
