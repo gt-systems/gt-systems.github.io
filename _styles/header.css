@@ -103,6 +103,9 @@ nav > a:hover {
   header:not([data-big]) {
     justify-content: flex-end;
   }
+  header:not([data-big]) .logo {
+    display: none;
+  }
   header:not([data-big]) .nav-toggle {
     display: flex;
   }
